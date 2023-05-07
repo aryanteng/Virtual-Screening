@@ -1,0 +1,8 @@
+receptor= mutant3.pdbqt
+center_x= 133.690 
+center_y= 137.903
+center_z= 143.517
+size_x= 126
+size_y= 108
+size_z= 124
+num_modes=20
